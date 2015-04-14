@@ -1,2 +1,2 @@
 # DataStructure
-Data structure implement by C
+Data structure implement by C or C++
